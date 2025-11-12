@@ -1,4 +1,4 @@
-const message = `I don’t even know if you’ll ever read this.\nBut if you do… I just want you to know, I still think about you sometimes.\n\nWe both tried. We both cared. But the universe just never gave us enough space to become “us.”\n\nI just wonder… if we had met at a different point in life, would the ending have been different?\n\nAnyway, I hope you're doing okay, even though we’re not in each other’s lives anymore.`;
+const message = `Happy father day papi cantik. Mff kalau kiranya telat ngucapin,haha. Makasih ya udah mau ngadepin segala kerandoman gw,udah mau dengerin keluh kesah gw. Maaf kalau gw belum bisa buat lo seneng. Semangat hidup y! Jngn pernah berubah,tetap menjadi papi cantik yang kukenal. Semoga hari hari lo menyenangkan,semoga bisa move on(kalau mau). Cukup sekian, intinya I love u so much papi cantik`;
 
 function showLetter() {
   document.getElementById("introText").style.opacity = 0;
@@ -21,3 +21,4 @@ function showLetter() {
     typeWriter();
   }, 600);
 }
+
